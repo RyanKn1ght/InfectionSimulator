@@ -1,4 +1,4 @@
 # InfectionSimulator
-Ryan Knight
+by Ryan Knight
 
-Viral spread simulator that I made for my Year 2 Bioinformatics skills group project using Python, Pygame (yeah, I know) and Tkinter.
+Simple, visual viral spread simulator. I made this for my Year 2 Bioinformatics skills group project.
