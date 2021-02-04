@@ -1,5 +1,6 @@
 # InfectionSimulator
 by Ryan Knight
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4501567.svg)](https://doi.org/10.5281/zenodo.4501567)
 
 ## Software
 Simple, visual viral spread simulator. 
